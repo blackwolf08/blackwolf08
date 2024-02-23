@@ -2,7 +2,7 @@
 
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=blackwolf08&show_icons=true&hide_border=true" />
+[![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackwolf08)](https://github.com/blackwolf08/github-readme-stats)
 
 [![Website](https://img.shields.io/website?label=sunnydhama.com&style=for-the-badge&url=https%3A%2F%2Fsunnydhama.com)](https://sunny-dhama.com)
 
